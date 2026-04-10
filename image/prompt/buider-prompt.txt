@@ -1,0 +1,30 @@
+ACT AS:
+A world-class Creative Developer (Awwwards-level) specializing in Next.js, Framer Motion, and scroll-based animations.
+
+THE TASK:
+Build a high-end "Scrollytelling" landing page for fictional premium wireless headphones called "SonicWave Pro".
+
+The core mechanic is a scroll-linked animation that plays an image sequence of headphones "exploding" (disassembling into components) as the user scrolls down.
+
+TECH STACK:
+- Framework: Next.js 14 (App Router)
+- Styling: Tailwind CSS
+- Animation: Framer Motion
+- Rendering: HTML5 Canvas (for performance)
+
+VISUAL DIRECTION & COLOR:
+- Seamless Blending: The background of the website MUST match the background color of the image sequence exactly so the image edges are invisible. Use an eyedropper on the images to get the exact hex.
+- Color Palette: Pure Dark Mode. Use '#050505' or match the image background as the page background. Text should be 'text-white/90' for headings and 'text-white/60' for body.
+- Typography: Inter or SF Pro. Clean, tracking-tight, minimalist.
+
+INTERACTION:
+- As the user scrolls, the image sequence should scrub forward/backward frame-by-frame, synced to scroll position.
+- Smooth, buttery 60fps performance.
+- Add subtle parallax text overlays (e.g., "Sound Redefined", "SonicWave Pro") that fade in/out as the user scrolls.
+
+STRUCTURE:
+- Hero section with scroll prompt ("Scroll to Explore")
+- Scroll-linked animation section (the image sequence)
+- Footer with CTA
+
+Use best practices for performance, accessibility, and responsive design.

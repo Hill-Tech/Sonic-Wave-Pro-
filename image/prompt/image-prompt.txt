@@ -1,0 +1,29 @@
+prompt to generate image product base
+first image (start)
+Ultra-premium product photography of wireless headphones, matte black finish with brushed aluminum accents, soft ambient lighting from top-left, floating on matte black surface. Deep black background with subtle gradient, studio lighting, hyper-realistic 3D render, shallow depth of field, 4k cinematic quality, no text, no logos, luxury tech aesthetic, sharp focus on product, modern minimalist composition.
+
+prompt to generate the second image end
+
+The exact text from the image is as follows:
+
+Improved Prompt (don’t skip this):
+"Using the provided headphone image as reference, create a precise exploded view along a horizontal central axis. Separate components symmetrically from the center outward.
+Maintain strict alignment and equal spacing between all parts. Arrange components in logical assembly order: outer shell → ear cushions → driver unit → internal frame → circuit board → battery module.
+Ensure all elements are evenly distributed with consistent gaps, perfectly centered composition.
+Preserve original materials, lighting from top-left, and camera angle. Maintain deep black gradient background and cinematic shadows.
+All components must appear mechanically plausible with clear structural relationships, including visible connection paths between battery, circuit board, and drivers.
+Hyper-realistic 3D render, sharp focus on each component, shallow depth of field, luxury minimalist aesthetic, no text, no logos
+
+
+prompt to generate the  video using the start and end image 
+
+Smooth mechanical product disassembly animation starting from a fully assembled futuristic solar-tech cube and ending in a perfectly aligned exploded view. Camera completely static, locked-off tripod shot, no zoom, no pan, no tilt, no angle change.
+
+All cube panels, internal circuit boards, battery units, and structural frames separate slowly and precisely along their natural mechanical axes, floating upward and outward into final exploded configuration. Movement must feel engineered and realistic, with synchronized timing and clean spacing between components. No morphing, no deformation, no redesign, no extra parts added or removed. Maintain exact original product geometry and material details.
+
+Dark cinematic studio environment with soft radial vignette background, premium tech product lighting, subtle reflections on metal edges and glass-like photovoltaic panels, high-end commercial render style.
+
+Ultra clean motion, frictionless precision, zero jitter, zero glitch.
+End frame matches provided exploded view composition.
+
+

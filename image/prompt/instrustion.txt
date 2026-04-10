@@ -1,0 +1,43 @@
+🔗 Tools You'll Need
+
+Google Whisk · Google Veo · EZGif · Cursor AI
+The Full Walkthrough
+Step 1: Create Your Animation Frames
+
+Go to Google Whisk and use this prompt to generate a start and end frame:
+
+
+
+What you're doing: Creating two images. One showing the headphones intact, and another showing an "exploded view" with all the components separated (drivers, battery, ear cushions, circuit board floating apart). This gives Veo something to animate between.
+Step 2: Animate Your Frames
+
+Open Google Veo, select "Frames to Video", and upload both images.
+
+Veo will create a smooth animation that morphs between your start and end states. This is where the magic happens. AI fills in all the in-between motion.
+Step 3: Turn Video Into Scroll Frames
+
+Go to EZGif, upload your video, and set the frame rate to 30fps.
+
+This splits your video into individual images (usually around 240 frames depending on your video length). Each frame becomes one "step" in your scroll animation.
+
+Download them as a zip file.
+Step 4: Drop It Into Your Project
+
+Unzip the frames and drop the entire folder into your code project. If you're using Next.js, put them in your public/frames folder or wherever you're storing assets.
+Step 5: Build the Scroll Effect in Cursor
+
+Open Cursor AI and paste this prompt into Agent mode:
+What You Just Built
+
+You just built a $5,000 scroll effect in 10 minutes.
+
+This is the exact same effect Apple uses on their websites. Agencies charge thousands for it. You did it in the time it takes to make coffee.
+The 90/10 Pattern
+
+AI handled the Canvas APIs, scroll calculations, frame rate optimization, and all the code you didn't want to write anyway.
+
+You handled the vision. The product. The experience.
+
+That's 90% AI, 10% human. And that pattern works for everything.
+
+Join 900+ people learning to build like this →
